@@ -1,3 +1,4 @@
+//Facing problem, not working properly...yet
 clc
 function rankofA=matrixRank(A)
     
